@@ -56,7 +56,7 @@ The architecture overview uses AWS-style service pictograms, AWS service names, 
 
 ![AWS ECS Fargate microservices architecture](architecture/architecture-diagram.png)
 
-Editable diagram source: [`architecture/architecture-diagram.mmd`](architecture/architecture-diagram.mmd).
+ architecture-diagram.png
 
 **Important:** The pictograms are custom vector illustrations for this project, not the official AWS Architecture Icons artwork. If you replace them with official AWS artwork, download the current package from the [AWS Architecture Icons page](https://aws.amazon.com/architecture/icons/) and retain the service labels and diagram layout. Follow the AWS icon terms of use.
 
