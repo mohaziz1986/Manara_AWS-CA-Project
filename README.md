@@ -54,8 +54,6 @@ The services run in private subnets across two Availability Zones. AWS Cloud Map
 
 The architecture overview uses AWS-style service pictograms, AWS service names, and AWS network-boundary conventions. It shows the VPC, public ingress, private application subnets across two Availability Zones, the three Fargate microservices, Cloud Map discovery, and shared data, security, registry, and observability services.
 
-![AWS ECS Fargate microservices architecture](architecture/architecture-diagram.png)
-
 ![AWS ECS Fargate microservices architecture](architecture-diagram.png)
 
 
